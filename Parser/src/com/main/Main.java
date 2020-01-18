@@ -16,7 +16,7 @@ public class Main {
         dictionary.add("like");
         dictionary.add("her");
         dictionary.add("brother");
-
+        // test
         String sentence = "jesslookedjustliketimherbrother";
         reSpace(sentence, dictionary);
 
